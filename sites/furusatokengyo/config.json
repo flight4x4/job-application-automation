@@ -10,6 +10,14 @@
     "note": "ふるさと兼業は副業・兼業マッチング。地方企業案件が中心のため報酬下限を0に設定"
   },
 
+  "search_filters": {
+    "region": "全国",
+    "theme": ["DX・IT活用", "新規事業立ち上げ", "経営改善"],
+    "work_style": "副業・兼業",
+    "preferred_keywords": ["IT", "DX", "AI", "業務改善", "自動化", "システム"],
+    "note": "ふるさと兼業はテーマ（プロジェクト分類）で絞るのが有効。報酬より関わりの深さ重視案件が多い"
+  },
+
   "apply_criteria": {
     "deadline_days_min": 3,
     "max_applications_per_run": 10,

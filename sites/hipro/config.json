@@ -9,6 +9,13 @@
     "status": "募集中のみ"
   },
 
+  "search_filters": {
+    "region": "全国（リモート可）",
+    "work_style": "副業・兼業",
+    "preferred_keywords": ["DX", "AI", "業務改善", "自動化", "ITコンサル", "新規事業", "GAS"],
+    "note": "HiProは職種カテゴリ・地域・キーワードで絞り込み。地方副業案件がメイン"
+  },
+
   "apply_criteria": {
     "deadline_days_min": 3,
     "max_applications_per_run": 10,

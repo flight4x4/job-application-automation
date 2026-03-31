@@ -10,6 +10,14 @@
     "note": "チイキズカンは地域企業の副業マッチング。報酬下限を0に設定"
   },
 
+  "search_filters": {
+    "area": "全国",
+    "industry": ["IT・通信", "コンサルティング", "その他サービス"],
+    "specialty": ["DX推進", "業務改善・効率化", "AIシステム導入", "新規事業開発"],
+    "preferred_keywords": ["AI", "DX", "自動化", "GAS", "業務改善", "ChatGPT"],
+    "note": "チイキズカンはエリア・業種・専門領域・キーワードの4軸で検索できる"
+  },
+
   "apply_criteria": {
     "deadline_days_min": 3,
     "max_applications_per_run": 10,

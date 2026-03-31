@@ -9,6 +9,13 @@
     "status": "募集中のみ"
   },
 
+  "search_filters": {
+    "remote_only": true,
+    "work_style": "リモート可",
+    "preferred_keywords": ["n8n", "Dify", "GAS", "ChatGPT", "AI導入", "業務改善", "自動化", "DX", "ノーコード"],
+    "note": "スキルシフトはキーワード検索 + カテゴリ選択 + 勤務形態フィルターが主な絞り込み手段"
+  },
+
   "apply_criteria": {
     "deadline_days_min": 3,
     "max_applications_per_run": 10,
